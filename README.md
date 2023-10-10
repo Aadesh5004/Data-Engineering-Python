@@ -14,4 +14,4 @@ Upper Bracket = Q3 + 1.5 ( IQR )
 
 Outliers are selected when the value is beyond the upper and lower bracket.
 
-# comments are given in each line of code to show the process flow
+comments are given in each line of code to show the process flow
